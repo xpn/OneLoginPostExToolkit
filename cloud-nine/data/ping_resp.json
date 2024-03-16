@@ -1,0 +1,13 @@
+42["message",{
+  "message-id": "MESSAGE_ID",
+  "type": "response",
+  "payload": {
+    "flatresponse": "cmd: ping_rsp|id: |profile: Active|result: ok\n",
+    "body": {
+      "cmd": "ping_rsp",
+      "id": null,
+      "profile": "Active",
+      "result": "ok"
+    }
+  }
+}]

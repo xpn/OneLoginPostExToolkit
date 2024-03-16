@@ -1,0 +1,12 @@
+42["message",{
+  "message-id": "MESSAGE_ID",
+  "type": "response",
+  "payload": {
+    "flatresponse": "cmd: auth_rsp_2|id: |result: ok\n",
+    "body": {
+      "cmd": "auth_rsp_2",
+      "id": null,
+      "result": "ok"
+    }
+  }
+}]

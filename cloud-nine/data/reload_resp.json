@@ -1,0 +1,12 @@
+42["message",{
+  "message-id": "MESSAGE_ID",
+  "type": "response",
+  "payload": {
+    "flatresponse": "cmd: conf_reload_rsp|id: |result: ok\n",
+    "body": {
+      "cmd": "conf_reload_rsp",
+      "id": null,
+      "result": "ok"
+    }
+  }
+}]
